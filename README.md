@@ -1,2 +1,5 @@
-# QAC_Text_mining
-QAC Text Mining
+
+# QAC Text Mining
+## دورة تكوينية : التنقيب في النصوص بلغة python القرآن نموذجا
+
+
